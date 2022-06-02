@@ -47,7 +47,7 @@ input::placeholder {
     color: #000000;
     margin: 35px 30px 38px 0;
     display: block;
-    text-align: right;
+    text-align: center;
 }
 
 button {
@@ -100,14 +100,3 @@ strong {
     margin: 0 18px;
 
 }
-
-
-
-
-
-
-
-
-
-
-

@@ -2,8 +2,8 @@
 
 <h3>Yoga Interface - DevClub.</h3>
 
-<img align="left" src="./assets/yoga-01.jpg" alt="yoga-interface imagem">
-<img src="./assets/yoga-03.jpg" alt="yoga-interface imagem">
+<img align="left" height="520" src="./assets/yoga-01.jpg" alt="yoga-interface imagem">
+<img height="520" src="./assets/yoga-03.jpg" alt="yoga-interface imagem">
 
 <h2>📝 Descrição do Projeto:</h2>
 

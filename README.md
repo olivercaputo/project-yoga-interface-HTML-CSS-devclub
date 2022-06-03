@@ -1,18 +1,9 @@
 <h2>🚀 Nome do Projeto:</h2>
 
-<h3>Yoga Interface - DevClub.</h3> 
-
-<br>
+<h3>Yoga Interface - DevClub.</h3>
 
 <img src="./assets/yoga-01.jpg" alt="yoga-interface imagem">
-
-<br>
-<br>
-
 <img src="./assets/yoga-03.jpg" alt="yoga-interface imagem">
-
-<br>
-<br>
 
 <h2>📝 Descrição do Projeto:</h2>
 
@@ -56,7 +47,7 @@
           <b>Oliver Caputo</b>
         </sub>
       </a>
-      </td>
+    </td>
     <td align="center">
       <a href="https://www.github.com/rodolfomori" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/47903440?v=4" width="100px;" alt="Foto do Rodolfo Mori no GitHub"/><br>
@@ -64,8 +55,8 @@
           <b>Rodolfo Mori</b>
         </sub>
       </a>
-      </td>
-        <td align="center">
+    </td>
+    <td align="center">
       <a href="https://www.github.com/iuricode" target="blank">
         <img src="https://avatars3.githubusercontent.com/u/31936044"
         width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>

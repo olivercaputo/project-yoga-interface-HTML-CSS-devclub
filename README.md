@@ -2,7 +2,7 @@
 
 <h3>Yoga Interface - DevClub.</h3>
 
-<img src="./assets/yoga-01.jpg" alt="yoga-interface imagem">
+<img align="left" src="./assets/yoga-01.jpg" alt="yoga-interface imagem">
 <img src="./assets/yoga-03.jpg" alt="yoga-interface imagem">
 
 <h2>📝 Descrição do Projeto:</h2>
@@ -13,7 +13,7 @@
 
 <h2>🖥️ Linguagens Utilizadas:</h2>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br>
